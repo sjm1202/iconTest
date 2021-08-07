@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23359056",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "23359057",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "23359058",
+      "name": "茶杯",
+      "font_class": "chabei",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "23359059",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "23359060",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "23359061",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "23359062",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "23359063",
+      "name": "火箭",
+      "font_class": "huojian",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "23359064",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    }
+  ]
+}
